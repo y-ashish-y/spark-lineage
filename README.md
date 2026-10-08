@@ -1,5 +1,7 @@
 # Spark Lineage with Spline, Iceberg & PySpark
 
+![CI](https://github.com/y-ashish-y/spark-lineage/actions/workflows/ci.yml/badge.svg)
+
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0882be)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
