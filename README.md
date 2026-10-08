@@ -1,5 +1,10 @@
 # Spark Lineage with Spline, Iceberg & PySpark
 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0882be)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 Minimal, reproducible demo that captures Apache Spark data lineage with
 [AbsaOSS Spline](https://absaoss.github.io/spline/) while walking through
 a 100-row sample of the public NYC Yellow Taxi trip dataset using
